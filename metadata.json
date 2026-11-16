@@ -1,0 +1,6 @@
+{
+  "name": "ZESTARA FOODS — The Well-Lands AgroFoods LTD.",
+  "description": "Bringing flavour, nutrition and excellence to every home. Shop authentic Nigerian cooking spices crafted in Umuahia, Abia State by The Well-Lands AgroFoods LTD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
